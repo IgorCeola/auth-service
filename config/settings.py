@@ -1,0 +1,2 @@
+SECRET_KEY = "chave_jwt"
+ALGORITHM = "HS256"
